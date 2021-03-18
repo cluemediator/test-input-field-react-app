@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+small {
+  display: block;
+  margin-bottom: 20px;
+}
+
+input {
+  width: 300px;
+  line-height: 25px;
+  padding: 5px 10px;
+  border: 1px solid #999;
+  border-radius: 3px;
+}
+
+.error {
+  display: block;
+  color: #dc3545;
+  margin-top: 10px;
+}
